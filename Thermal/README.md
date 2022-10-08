@@ -1,4 +1,4 @@
-PH20029: Thermal physics
+#PH20029: Thermal physics
 
 Academic Year:		2021/2
 Owning Department/School:		Department of Physics
