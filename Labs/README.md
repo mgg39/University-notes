@@ -1,4 +1,4 @@
-PH20105: Experimental physics and computing 2
+# PH20105: Experimental physics and computing 2
 
 Academic Year:		2021/2
 Owning Department/School:		Department of Physics
