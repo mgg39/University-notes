@@ -1,0 +1,37 @@
+Team - B1
+----------
+apparatus before theory
+-> goal is to find adiabatic cnst
+
+
+Team - B2
+-----------
+gravity - det grav acceleration cnsts
+small angle eqtions of motion
+drag force
+
+compound pendulum + fallen bodies
+errors quite high
+
+Team - B3
+-----------
+astro - small telescopes
+
+
+Team - B4
+----------
+derivations magnetic braking force
+
+Team - B5 (feedback)
+----------------------
+Q: 
+(theo) n vs p - might be worth testing
+(theo) creation of holes?
+(exp) heating - how?why?safety?
+(exp) interference peaks (top & bottom)
+(analysis) skew?
+
+Feedback (to improve):
+liked photos equipment and oscilloscope readings
+add name 1st slide
+
