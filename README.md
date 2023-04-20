@@ -1,3 +1,15 @@
+Bsc with Hons University of Bath 2019-2024
+
+2019-21
+-------
+Paper notes
+
+2021/22
+--------
+Placement year: R&D Quantum Networking Intern @ Cisco
+
+2022/23
+--------
 Semester 1 - BsC Physics PH2
 - PH20013/PH20060 Quantum & atomic physics
 - PH20105 Experimental Physics and Computing 2
