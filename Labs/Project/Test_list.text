@@ -1,5 +1,0 @@
-Evaluated tests:
--Basic Haynes Shockley experiment: presence majority & minority carriers -> drif velocity & mobility electrons: at different injected voltages+ pulse lengths -> drift vs voltages
-- calc: drift velocity, mobility, thermal velocity, mean free hole time scatter
-- carrier diffusion: hole pulse broadening
-- test per collector - how distance affects measurement
