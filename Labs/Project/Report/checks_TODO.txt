@@ -1,10 +1,10 @@
-- check data correct: using the right gradients, mobility, etc
-- check every fig description
-- fix stuff in caps
-- re-read text and check it makes sns
-- run through plagiarism and ai checks just in case
-- make sure data and axis are consistent
-- try to fix that last conclusion issue on the side 
-- cross-check with grading: perhaps more work on uncertainty would be appropriate: see fig 11-12 distance uncertainty perhaps? check the other things on the grading scale
+- re-read text and check it makes sns ✔
+- check data correct: using the right gradients, mobility, etc ✔
+- check every fig description ✔ -> not a fan of fig 11
+- fix stuff in caps ✔
+- run through plagiarism and ai checks just in case x -> couldn't do find a pdf one for some reason
+- make sure data and axis are consistent  ✔
+- try to fix that last conclusion issue on the side  ✔
+- cross-check with grading: perhaps more work on uncertainty would be appropriate: see fig 11-12 distance uncertainty perhaps? check the other things on the grading scale  ✔
 
 ==> submit final version! make sure student n is fine
